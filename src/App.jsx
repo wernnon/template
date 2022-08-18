@@ -1,9 +1,8 @@
-import "./App.css";
-import Rotas from './Rotas';
+import "./App.css"
 function App(){
     return(
         <div>
-            <Rotas/>
+            
         </div>
     );
 }
